@@ -20,13 +20,13 @@ public static void main(String[] args) {
 1. What are the names of the three variables declared?
 
 
-2. What is the type of the variable named message?
+2. What is the type of the variable named `message`?
 
 
-3. What is the type of the variable named another_string?
+3. What is the type of the variable named `another_string`?
 
 
 4. What will be displayed in the console after the code above is executed?
 
 
-5. What is the last value of the variable message after the code above is executed?
+5. What is the last value of the variable `message` after the code above is executed?
