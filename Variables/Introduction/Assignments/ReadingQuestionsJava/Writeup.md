@@ -3,16 +3,16 @@
 Take a look at the following Java code.
 
 ```java
-  public static void main(String[] args) {
+public static void main(String[] args) {
 
-    String message = “Hello World!”;
-    String another_string = “115”;
-    int third = “115”;
+  String message = “Hello World!”;
+  String another_string = “115”;
+  int third = “115”;
 
-    System.out.println(another_string + third);
-    message = message + “another_string” + third;
+  System.out.println(another_string + third);
+  message = message + “another_string” + third;
 
-  }
+}
 ```
 
 ### Questions
