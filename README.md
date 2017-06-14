@@ -56,7 +56,9 @@ Each directory for all of the assignments *should* follow the structure below.
 - **LearningOutcomes.md** - These are the 'official' learning outcomes that the activity covers.
 - **Solutions** - This is a folder of the solutions to the activity. The solutions can be in *Markdown* files if written work or something, or just have legit code files (sometimes even include multiple languages!).
 
-### Clone This Repo
+----
+
+## Clone This Repo
 Either use **ssh** (preferred):
 ```bash
 $ git clone git@github.com:CSE-Introduction-Course/PossibleActivities.git
@@ -66,7 +68,7 @@ or use HTTP (if you like typing passwords):
 git clone https://github.com/CSE-Introduction-Course/PossibleActivities.git
 ```
 
-### Markdown Help
+## Markdown Help
 If you're not strong on Markdown, no worries! Follow any of the links below to
 get started:
 
