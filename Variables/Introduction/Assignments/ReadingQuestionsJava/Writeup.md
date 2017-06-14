@@ -3,7 +3,6 @@
 Take a look at the following Java code.
 
 ```java
-public class Question1 {
   public static void main(String[] args) {
 
     String message = “Hello World!”;
@@ -14,7 +13,6 @@ public class Question1 {
     message = message + “another_string” + third;
 
   }
-}
 ```
 
 ### Questions
