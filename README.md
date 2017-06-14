@@ -48,9 +48,9 @@ just to make traversing easier. If a topic or subtopic needs explained, give a s
 * At the point where a subtopic doesn't need to be broken down, create it's directory structure as below:
     1. **Notes Directory** - This is where any notes that could be used to teach the topic (formal or nonformal) can be placed. Powerpoints, a doc with websites or resources, whatever you want, can go here.
     2. **Assignments** - This is a directory containing all of the possible assignments for the subtopic. The folder outline should be as follows:
-        a. **Writeup.md** - This is what students would see for the activity. It has the description, some explanations, and is a mock assignment.
-        b. **LearningOutcomes.md** - These are the 'official' learning outcomes that the activity covers.
-        c. **Solutions** - This is a folder of the solutions to the activity. The solutions can be in *Markdown* files if written work or something, or just have legit code files (sometimes even include multiple languages!).
+           a. **Writeup.md** - This is what students would see for the activity. It has the description, some explanations, and is a mock assignment.
+           b. **LearningOutcomes.md** - These are the 'official' learning outcomes that the activity covers.
+           c. **Solutions** - This is a folder of the solutions to the activity. The solutions can be in *Markdown* files if written work or something, or just have legit code files (sometimes even include multiple languages!).
 * *PLEASE FOR THE LOVE OF (GOD | ALLAH | HIGGS BOSON | WHATEVER YOU BELIEVE IN) PLEASE, PLEASE NAME EVERYTHING WELL.*
 
 
